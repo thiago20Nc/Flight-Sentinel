@@ -1,0 +1,16 @@
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\src\FlightSentinel.Application\bin\Debug\net8.0\FlightSentinel.Application.deps.json
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\src\FlightSentinel.Application\bin\Debug\net8.0\FlightSentinel.Application.dll
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\src\FlightSentinel.Application\bin\Debug\net8.0\FlightSentinel.Application.pdb
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\src\FlightSentinel.Application\bin\Debug\net8.0\FlightSentinel.Domain.dll
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\src\FlightSentinel.Application\bin\Debug\net8.0\FlightSentinel.Domain.pdb
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\src\FlightSentinel.Application\obj\Debug\net8.0\FlightSentinel.Application.csproj.AssemblyReference.cache
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\src\FlightSentinel.Application\obj\Debug\net8.0\FlightSentinel.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\src\FlightSentinel.Application\obj\Debug\net8.0\FlightSentinel.Application.AssemblyInfoInputs.cache
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\src\FlightSentinel.Application\obj\Debug\net8.0\FlightSentinel.Application.AssemblyInfo.cs
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\src\FlightSentinel.Application\obj\Debug\net8.0\FlightSentinel.Application.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\src\FlightSentinel.Application\obj\Debug\net8.0\FlightSentinel.Application.sourcelink.json
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\src\FlightSentinel.Application\obj\Debug\net8.0\FlightSe.CCCBD519.Up2Date
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\src\FlightSentinel.Application\obj\Debug\net8.0\FlightSentinel.Application.dll
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\src\FlightSentinel.Application\obj\Debug\net8.0\refint\FlightSentinel.Application.dll
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\src\FlightSentinel.Application\obj\Debug\net8.0\FlightSentinel.Application.pdb
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\src\FlightSentinel.Application\obj\Debug\net8.0\ref\FlightSentinel.Application.dll

@@ -1,0 +1,12 @@
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\test\FlightSentinel.Tests\bin\Debug\net8.0\FlightSentinel.Tests.deps.json
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\test\FlightSentinel.Tests\bin\Debug\net8.0\FlightSentinel.Tests.dll
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\test\FlightSentinel.Tests\bin\Debug\net8.0\FlightSentinel.Tests.pdb
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\test\FlightSentinel.Tests\obj\Debug\net8.0\FlightSentinel.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\test\FlightSentinel.Tests\obj\Debug\net8.0\FlightSentinel.Tests.AssemblyInfoInputs.cache
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\test\FlightSentinel.Tests\obj\Debug\net8.0\FlightSentinel.Tests.AssemblyInfo.cs
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\test\FlightSentinel.Tests\obj\Debug\net8.0\FlightSentinel.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\test\FlightSentinel.Tests\obj\Debug\net8.0\FlightSentinel.Tests.sourcelink.json
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\test\FlightSentinel.Tests\obj\Debug\net8.0\FlightSentinel.Tests.dll
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\test\FlightSentinel.Tests\obj\Debug\net8.0\refint\FlightSentinel.Tests.dll
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\test\FlightSentinel.Tests\obj\Debug\net8.0\FlightSentinel.Tests.pdb
+C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\test\FlightSentinel.Tests\obj\Debug\net8.0\ref\FlightSentinel.Tests.dll
