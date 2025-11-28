@@ -10,3 +10,16 @@ C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\src\FlightSentinel.Domai
 C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\src\FlightSentinel.Domain\obj\Debug\net8.0\refint\FlightSentinel.Domain.dll
 C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\src\FlightSentinel.Domain\obj\Debug\net8.0\FlightSentinel.Domain.pdb
 C:\Users\Thiago\WorkSpace\FlightSentinel\FlightSentinel\src\FlightSentinel.Domain\obj\Debug\net8.0\ref\FlightSentinel.Domain.dll
+C:\Users\Thiago\WorkSpace\FlightSentinel\src\FlightSentinel.Domain\bin\Debug\net8.0\FlightSentinel.Domain.deps.json
+C:\Users\Thiago\WorkSpace\FlightSentinel\src\FlightSentinel.Domain\bin\Debug\net8.0\FlightSentinel.Domain.dll
+C:\Users\Thiago\WorkSpace\FlightSentinel\src\FlightSentinel.Domain\bin\Debug\net8.0\FlightSentinel.Domain.pdb
+C:\Users\Thiago\WorkSpace\FlightSentinel\src\FlightSentinel.Domain\obj\Debug\net8.0\FlightSentinel.Domain.csproj.AssemblyReference.cache
+C:\Users\Thiago\WorkSpace\FlightSentinel\src\FlightSentinel.Domain\obj\Debug\net8.0\FlightSentinel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\WorkSpace\FlightSentinel\src\FlightSentinel.Domain\obj\Debug\net8.0\FlightSentinel.Domain.AssemblyInfoInputs.cache
+C:\Users\Thiago\WorkSpace\FlightSentinel\src\FlightSentinel.Domain\obj\Debug\net8.0\FlightSentinel.Domain.AssemblyInfo.cs
+C:\Users\Thiago\WorkSpace\FlightSentinel\src\FlightSentinel.Domain\obj\Debug\net8.0\FlightSentinel.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\WorkSpace\FlightSentinel\src\FlightSentinel.Domain\obj\Debug\net8.0\FlightSentinel.Domain.sourcelink.json
+C:\Users\Thiago\WorkSpace\FlightSentinel\src\FlightSentinel.Domain\obj\Debug\net8.0\FlightSentinel.Domain.dll
+C:\Users\Thiago\WorkSpace\FlightSentinel\src\FlightSentinel.Domain\obj\Debug\net8.0\refint\FlightSentinel.Domain.dll
+C:\Users\Thiago\WorkSpace\FlightSentinel\src\FlightSentinel.Domain\obj\Debug\net8.0\FlightSentinel.Domain.pdb
+C:\Users\Thiago\WorkSpace\FlightSentinel\src\FlightSentinel.Domain\obj\Debug\net8.0\ref\FlightSentinel.Domain.dll
