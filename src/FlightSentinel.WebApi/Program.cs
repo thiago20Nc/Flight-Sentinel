@@ -31,3 +31,5 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 app.MapControllers();
 app.Run();
+
+//Teste commit .gitignore

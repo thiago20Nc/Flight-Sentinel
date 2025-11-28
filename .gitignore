@@ -486,6 +486,4 @@ $RECYCLE.BIN/
 # AppSettings sensíveis
 appsettings.json
 appsettings.*.json
-
-# Exceto o de Development, se desejar
-!appsettings.Development.json
+appsettings.Development.json
