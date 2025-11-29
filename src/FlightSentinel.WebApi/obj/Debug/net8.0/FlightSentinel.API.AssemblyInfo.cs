@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlightSentinel.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4116aa6ba30374afa687d6c08d53e5d9656437f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfbbfd3839be49238f3cb6a5daa2d1a195f49878")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlightSentinel.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlightSentinel.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

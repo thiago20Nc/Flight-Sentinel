@@ -1,4 +1,5 @@
 ﻿using FlightSentinel.Domain.Interfaces;
+using FlightSentinel.Domain.ValueObjects;
 
 namespace FlightSentinel.Infrastructure.Services
 {
@@ -12,7 +13,7 @@ namespace FlightSentinel.Infrastructure.Services
         }
 
 
-        public async Task<decimal> GetLowestPriceAsync(string origin, string destination, DateTime startDate, DateTime endDate)
+        public async Task<decimal> GetLowestPriceAsync(AirportCode origin, AirportCode destination, DateTime startDate, DateTime endDate)
         {
             // Aqui será colocada a chamada real da API externa
             // Por enquanto retorno uma simulação

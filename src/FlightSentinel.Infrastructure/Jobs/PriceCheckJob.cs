@@ -36,19 +36,18 @@ namespace FlightSentinel.Infrastructure.Jobs
                 );
 
                 // registrar histórico
-                var history = new PriceCheckHistory
-                {
-                    AlertId = alert.AlertId,
-                    FoundPrice = price,
-                    FoundAt = DateTime.UtcNow
-                };
+                var history = new PriceCheckHistory(
+                    alert.AlertId,
+                    price,
+                    airline: "GRU" //exemplo
+                );
 
                 await _history.CreateAsync(history);
 
                 if (price <= alert.MaxPrice)
                 {
                     await _email.SendEmailAsync(
-                        alert.User.Email,
+                        alert.User.Email.Value,
                         "Preço encontrado!",
                         $"Encontramos uma passagem por {price:C}!"
                     );

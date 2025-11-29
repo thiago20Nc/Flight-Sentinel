@@ -1,5 +1,6 @@
 ﻿using FlightSentinel.Domain.Entities;
 using FlightSentinel.Domain.Interfaces;
+using FlightSentinel.Domain.ValueObjects;
 using Microsoft.EntityFrameworkCore;
 
 namespace FlightSentinel.Infrastructure.Persistence.Repositories
@@ -33,8 +34,10 @@ namespace FlightSentinel.Infrastructure.Persistence.Repositories
 
         public async Task<User> GetByEmailAsync(string email)
         {
+            var emailVo = new EmailAddress(email);
+
             return await _context.User
-                .FirstOrDefaultAsync(x => x.Email == email);
+                .FirstOrDefaultAsync(x => x.Email == emailVo);
         }
 
         public async Task<User> GetByIdAsync(Guid userId)

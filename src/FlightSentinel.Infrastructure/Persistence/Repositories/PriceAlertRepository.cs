@@ -1,4 +1,5 @@
 ﻿using FlightSentinel.Domain.Entities;
+using FlightSentinel.Domain.Enums;
 using FlightSentinel.Domain.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
@@ -29,7 +30,7 @@ namespace FlightSentinel.Infrastructure.Persistence.Repositories
         public async Task<IEnumerable<PriceAlert>> GetActiveAlertsAsync()
         {
             return await _context.PriceAlerts
-                .Where(x => x.Status == "Active")
+                .Where(x => x.Status == AlertStatus.Active)
                 .ToListAsync();
         }
 

@@ -1,6 +1,8 @@
 ﻿namespace FlightSentinel.Domain.Enums
 {
-    public class AlertStatus
+    public enum AlertStatus
     {
+        Active,
+        Inactive
     }
 }

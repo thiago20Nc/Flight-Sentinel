@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Thiago\\WorkSpace\\FlightSentinel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{294B8B30-B72F-711D-DFFB-5116E6268C32}|src\\FlightSentinel.WebApi\\FlightSentinel.API.csproj|c:\\users\\thiago\\workspace\\flightsentinel\\src\\flightsentinel.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{294B8B30-B72F-711D-DFFB-5116E6268C32}|src\\FlightSentinel.WebApi\\FlightSentinel.API.csproj|solutionrelative:src\\flightsentinel.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{44928D5D-9253-DAAE-5AF2-95B920567A94}|src\\FlightSentinel.Infrastructure\\FlightSentinel.Infrastructure.csproj|c:\\users\\thiago\\workspace\\flightsentinel\\src\\flightsentinel.infrastructure\\services\\flightpriceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44928D5D-9253-DAAE-5AF2-95B920567A94}|src\\FlightSentinel.Infrastructure\\FlightSentinel.Infrastructure.csproj|solutionrelative:src\\flightsentinel.infrastructure\\services\\flightpriceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{294B8B30-B72F-711D-DFFB-5116E6268C32}|src\\FlightSentinel.WebApi\\FlightSentinel.API.csproj|c:\\users\\thiago\\workspace\\flightsentinel\\src\\flightsentinel.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{294B8B30-B72F-711D-DFFB-5116E6268C32}|src\\FlightSentinel.WebApi\\FlightSentinel.API.csproj|solutionrelative:src\\flightsentinel.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44928D5D-9253-DAAE-5AF2-95B920567A94}|src\\FlightSentinel.Infrastructure\\FlightSentinel.Infrastructure.csproj|c:\\users\\thiago\\workspace\\flightsentinel\\src\\flightsentinel.infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44928D5D-9253-DAAE-5AF2-95B920567A94}|src\\FlightSentinel.Infrastructure\\FlightSentinel.Infrastructure.csproj|solutionrelative:src\\flightsentinel.infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44928D5D-9253-DAAE-5AF2-95B920567A94}|src\\FlightSentinel.Infrastructure\\FlightSentinel.Infrastructure.csproj|c:\\users\\thiago\\workspace\\flightsentinel\\src\\flightsentinel.infrastructure\\dependencyinjection\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44928D5D-9253-DAAE-5AF2-95B920567A94}|src\\FlightSentinel.Infrastructure\\FlightSentinel.Infrastructure.csproj|solutionrelative:src\\flightsentinel.infrastructure\\dependencyinjection\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44928D5D-9253-DAAE-5AF2-95B920567A94}|src\\FlightSentinel.Infrastructure\\FlightSentinel.Infrastructure.csproj|c:\\users\\thiago\\workspace\\flightsentinel\\src\\flightsentinel.infrastructure\\persistence\\repositories\\pricealertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44928D5D-9253-DAAE-5AF2-95B920567A94}|src\\FlightSentinel.Infrastructure\\FlightSentinel.Infrastructure.csproj|solutionrelative:src\\flightsentinel.infrastructure\\persistence\\repositories\\pricealertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B311B24-62FF-21FB-36E5-31238B5E411B}|src\\FlightSentinel.Domain\\FlightSentinel.Domain.csproj|c:\\users\\thiago\\workspace\\flightsentinel\\src\\flightsentinel.domain\\entities\\pricecheckhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B311B24-62FF-21FB-36E5-31238B5E411B}|src\\FlightSentinel.Domain\\FlightSentinel.Domain.csproj|solutionrelative:src\\flightsentinel.domain\\entities\\pricecheckhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B311B24-62FF-21FB-36E5-31238B5E411B}|src\\FlightSentinel.Domain\\FlightSentinel.Domain.csproj|c:\\users\\thiago\\workspace\\flightsentinel\\src\\flightsentinel.domain\\entities\\pricealert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B311B24-62FF-21FB-36E5-31238B5E411B}|src\\FlightSentinel.Domain\\FlightSentinel.Domain.csproj|solutionrelative:src\\flightsentinel.domain\\entities\\pricealert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Thiago\\WorkSpace\\FlightSentinel\\src\\FlightSentinel.WebApi\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "src\\FlightSentinel.WebApi\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Thiago\\WorkSpace\\FlightSentinel\\src\\FlightSentinel.WebApi\\appsettings.Development.json",
-              "RelativeToolTip": "src\\FlightSentinel.WebApi\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-28T19:25:17.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InfrastructureServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Thiago\\WorkSpace\\FlightSentinel\\src\\FlightSentinel.Infrastructure\\DependencyInjection\\InfrastructureServiceRegistration.cs",
-              "RelativeDocumentMoniker": "src\\FlightSentinel.Infrastructure\\DependencyInjection\\InfrastructureServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Thiago\\WorkSpace\\FlightSentinel\\src\\FlightSentinel.Infrastructure\\DependencyInjection\\InfrastructureServiceRegistration.cs",
-              "RelativeToolTip": "src\\FlightSentinel.Infrastructure\\DependencyInjection\\InfrastructureServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABAAAAAAAAAAA==",
+              "Title": "FlightPriceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\WorkSpace\\FlightSentinel\\src\\FlightSentinel.Infrastructure\\Services\\FlightPriceProvider.cs",
+              "RelativeDocumentMoniker": "src\\FlightSentinel.Infrastructure\\Services\\FlightPriceProvider.cs",
+              "ToolTip": "C:\\Users\\Thiago\\WorkSpace\\FlightSentinel\\src\\FlightSentinel.Infrastructure\\Services\\FlightPriceProvider.cs",
+              "RelativeToolTip": "src\\FlightSentinel.Infrastructure\\Services\\FlightPriceProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T19:10:20.561Z",
+              "WhenOpened": "2025-11-29T14:25:20.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Thiago\\WorkSpace\\FlightSentinel\\src\\FlightSentinel.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "src\\FlightSentinel.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Thiago\\WorkSpace\\FlightSentinel\\src\\FlightSentinel.WebApi\\Program.cs",
-              "RelativeToolTip": "src\\FlightSentinel.WebApi\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\WorkSpace\\FlightSentinel\\src\\FlightSentinel.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\FlightSentinel.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Thiago\\WorkSpace\\FlightSentinel\\src\\FlightSentinel.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "src\\FlightSentinel.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T18:56:11.723Z",
+              "WhenOpened": "2025-11-29T14:22:54.828Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PriceAlertRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\WorkSpace\\FlightSentinel\\src\\FlightSentinel.Infrastructure\\Persistence\\Repositories\\PriceAlertRepository.cs",
+              "RelativeDocumentMoniker": "src\\FlightSentinel.Infrastructure\\Persistence\\Repositories\\PriceAlertRepository.cs",
+              "ToolTip": "C:\\Users\\Thiago\\WorkSpace\\FlightSentinel\\src\\FlightSentinel.Infrastructure\\Persistence\\Repositories\\PriceAlertRepository.cs",
+              "RelativeToolTip": "src\\FlightSentinel.Infrastructure\\Persistence\\Repositories\\PriceAlertRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA2wCAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T14:22:22.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PriceAlert.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\WorkSpace\\FlightSentinel\\src\\FlightSentinel.Domain\\Entities\\PriceAlert.cs",
+              "RelativeDocumentMoniker": "src\\FlightSentinel.Domain\\Entities\\PriceAlert.cs",
+              "ToolTip": "C:\\Users\\Thiago\\WorkSpace\\FlightSentinel\\src\\FlightSentinel.Domain\\Entities\\PriceAlert.cs",
+              "RelativeToolTip": "src\\FlightSentinel.Domain\\Entities\\PriceAlert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T14:16:47.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PriceCheckHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\WorkSpace\\FlightSentinel\\src\\FlightSentinel.Domain\\Entities\\PriceCheckHistory.cs",
+              "RelativeDocumentMoniker": "src\\FlightSentinel.Domain\\Entities\\PriceCheckHistory.cs",
+              "ToolTip": "C:\\Users\\Thiago\\WorkSpace\\FlightSentinel\\src\\FlightSentinel.Domain\\Entities\\PriceCheckHistory.cs",
+              "RelativeToolTip": "src\\FlightSentinel.Domain\\Entities\\PriceCheckHistory.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T14:16:40.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

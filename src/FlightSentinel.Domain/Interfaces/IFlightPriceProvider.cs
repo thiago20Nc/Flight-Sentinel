@@ -1,7 +1,9 @@
-﻿namespace FlightSentinel.Domain.Interfaces
+﻿using FlightSentinel.Domain.ValueObjects;
+
+namespace FlightSentinel.Domain.Interfaces
 {
     public interface IFlightPriceProvider
     {
-        Task<decimal> GetLowestPriceAsync(string origin, string destination, DateTime startDate, DateTime endDate);
+        Task<decimal> GetLowestPriceAsync(AirportCode origin, AirportCode destination, DateTime startDate, DateTime endDate);
     }
 }
